@@ -1,0 +1,12 @@
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\bin\Debug\MenuLateral.exe.config
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\bin\Debug\MenuLateral.exe
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\bin\Debug\MenuLateral.pdb
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\obj\Debug\MenuLateral.csprojAssemblyReference.cache
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\obj\Debug\MenuLateral.Form1.resources
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\obj\Debug\MenuLateral.Properties.Resources.resources
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\obj\Debug\MenuLateral.csproj.GenerateResource.cache
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\obj\Debug\MenuLateral.csproj.CoreCompileInputs.cache
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\obj\Debug\MenuLateral.exe
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\obj\Debug\MenuLateral.pdb
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\obj\Debug\MenuLateral.Form2.resources
+C:\Colocho\MenuLateral\MenuLateral\MenuLateral\obj\Debug\MenuLateral.Form3.resources

@@ -1,0 +1,13 @@
+C:\Colocho\Ingreso\Ingreso\Ingreso\bin\Debug\Ingreso.exe.config
+C:\Colocho\Ingreso\Ingreso\Ingreso\bin\Debug\Ingreso.exe
+C:\Colocho\Ingreso\Ingreso\Ingreso\bin\Debug\Ingreso.pdb
+C:\Colocho\Ingreso\Ingreso\Ingreso\obj\Debug\Ingreso.csprojAssemblyReference.cache
+C:\Colocho\Ingreso\Ingreso\Ingreso\obj\Debug\Ingreso.Form1.resources
+C:\Colocho\Ingreso\Ingreso\Ingreso\obj\Debug\Ingreso.Properties.Resources.resources
+C:\Colocho\Ingreso\Ingreso\Ingreso\obj\Debug\Ingreso.csproj.GenerateResource.cache
+C:\Colocho\Ingreso\Ingreso\Ingreso\obj\Debug\Ingreso.csproj.CoreCompileInputs.cache
+C:\Colocho\Ingreso\Ingreso\Ingreso\obj\Debug\Ingreso.exe
+C:\Colocho\Ingreso\Ingreso\Ingreso\obj\Debug\Ingreso.pdb
+C:\Colocho\Ingreso\Ingreso\Ingreso\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Colocho\Ingreso\Ingreso\Ingreso\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Colocho\Ingreso\Ingreso\Ingreso\obj\Debug\Ingreso.csproj.CopyComplete
